@@ -1,0 +1,8 @@
+streamlit
+openai
+langchain
+langchain-community
+faiss-cpu
+tiktoken
+sqlalchemy
+pysqlite3-binary
