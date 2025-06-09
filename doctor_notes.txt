@@ -1,0 +1,7 @@
+Patient John Doe has shown elevated glucose levels and fatigue. 
+Consider recommending dietary changes and follow-up after 3 weeks.
+
+Patient Bob Johnson has borderline results but complained of blurry vision and dizziness. 
+Further testing for diabetes recommended.
+
+Jane Smith's reports were normal. No immediate action required.
