@@ -1,7 +1,4 @@
-Patient John Doe has shown elevated glucose levels and fatigue. 
-Consider recommending dietary changes and follow-up after 3 weeks.
-
-Patient Bob Johnson has borderline results but complained of blurry vision and dizziness. 
-Further testing for diabetes recommended.
-
-Jane Smith's reports were normal. No immediate action required.
+Patient Emily White has a blood pressure reading of 140/90 mmHg and is advised to reduce sodium intake.
+Tom Baker's heart rate was irregular, peaking at 110 bpm during the exam.
+Anna Gray’s glucose level after fasting was 125 mg/dL, slightly above the normal range.
+Brian Lee was diagnosed with high cholesterol after his lab tests showed LDL levels above 160 mg/dL.
