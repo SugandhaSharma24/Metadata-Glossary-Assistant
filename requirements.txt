@@ -6,3 +6,5 @@ faiss-cpu
 tiktoken
 sqlalchemy
 pysqlite3-binary
+numpy
+scikit-learn
